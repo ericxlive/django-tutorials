@@ -1,3 +1,3 @@
 # Django framework
 
-Django Tutorials
+Django Tutorials - comming soon
